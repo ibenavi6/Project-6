@@ -1,4 +1,3 @@
-package defult;
 
 import java.util.Scanner;
 
